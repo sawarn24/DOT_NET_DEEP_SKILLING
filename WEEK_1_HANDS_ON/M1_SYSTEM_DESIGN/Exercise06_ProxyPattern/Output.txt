@@ -1,0 +1,6 @@
+First Call:
+Loading Nature.jpg from remote server...
+Displaying Nature.jpg
+
+Second Call:
+Displaying Nature.jpg

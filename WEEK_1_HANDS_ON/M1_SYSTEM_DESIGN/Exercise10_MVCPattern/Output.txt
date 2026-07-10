@@ -1,0 +1,13 @@
+Initial Details:
+Student Details
+------------------------
+ID    : 101
+Name  : Ishan
+Grade : A
+
+Updated Details:
+Student Details
+------------------------
+ID    : 101
+Name  : Rahul
+Grade : A+
